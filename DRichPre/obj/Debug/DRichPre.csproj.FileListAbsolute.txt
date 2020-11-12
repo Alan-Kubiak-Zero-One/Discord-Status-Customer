@@ -1,0 +1,16 @@
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\obj\Debug\DRichPre.csprojResolveAssemblyReference.cache
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\obj\Debug\DRichPre.Form1.resources
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\obj\Debug\DRichPre.csproj.GenerateResource.Cache
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\DiscordRPC.dll
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\Newtonsoft.Json.dll
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\DiscordRPC.pdb
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\DiscordRPC.xml
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\Newtonsoft.Json.xml
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\XanderUI.dll
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\Discord Status Customer.exe.config
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\Discord Status Customer.exe
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\bin\Debug\Discord Status Customer.pdb
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\obj\Debug\Discord_Status_Customer.Properties.Resources.resources
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\obj\Debug\Discord Status Customer.exe
+c:\users\lived\documents\visual studio 2015\Projects\DRichPre\DRichPre\obj\Debug\Discord Status Customer.pdb
